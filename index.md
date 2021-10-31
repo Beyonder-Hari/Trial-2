@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
-You can use the [editor on GitHub](https://github.com/Beyonder-Hari/Trial-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
 
-### Markdown
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+</head>
+<body>
 
-```markdown
-Syntax highlighted code block
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#videos">Video</a>
+  <a href="#rubiks-cube">Rubik's Cube</a>
+  <a href="#about">About</a>
+  <a href="#merch">Merch</a>
+</div>
 
-# Header 1
-## Header 2
-### Header 3
+<div style="padding-left:16px">
+  <h1>Swag Siruvan</h1>
+  <img src="C:/Shri Hari B/Youtube/channels4_profile.jpg" alt="Logo of Swag Siruvan">
+  <p>Hey Guys.... Welcome to Swag Siruvan! This is the official webpage of Swag Siruvan Youtube Channel. Be sure to subscribe and follow us on Instagram too</p>
+  <ul>
+  <li> Youtube - <a href="https://www.youtube.com/c/SwagSiruvan">Subscribe to Youtube</a></li>
+  <li> Instagram - <a href="https://instagram.com/swagsiruvan_yt?utm_medium=copy_link">Follow us on Instagram</a></li>
+  <img src="C:/Shri Hari B/Me2.jpg" alt="This is me" >
+  
+</div>
 
-- Bulleted
-- List
+<h1 id="videos">Popular Video Uploads</h1>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/B5FVnOF8iGk">
+</iframe>
+<p> This video has a woophing 202 views! </p>
+<p>People in this video - Mukesh Kumar</p>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/w1VnhzcOaLY">
+</iframe>
+<p> This has a view count of 148 views and secures 2nd spont in the view cout</p>
+<p>People in this Video - Mukesh Kumar and Mukesh's Monther</p>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tSTMsPRTIXc">
+</iframe>
+<p> And at last but not least, we have the rubik's cube video with 144 views!</p>
+<p>People in this video - Shri Hari and Mukesh Kumar</p>
+<h1 id="rubiks-cube">Rubik's Cube</h1>
+<h2>Tutorials and other stuff coming soon!</h2>
+<h2>Parts of a cube || Cubing with Shri Hari</h2>
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tSTMsPRTIXc">
+</iframe>
 
-1. Numbered
-2. List
+<h1 id="about">About us</h1>
+<h2>After I gather more information, I will update this page</h2>
 
-**Bold** and _Italic_ and `Code` text
+<h1 id="merch">Merch</h1>
+<h2>Merch Dropping in soon!</h2>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Beyonder-Hari/Trial-2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
